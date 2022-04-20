@@ -1,6 +1,6 @@
-# flutter_apps
+Flutter Recipe App with Slider widget
 
-A new Flutter project.
+A Simple Flutter Recipe App
 
 ## Getting Started
 
